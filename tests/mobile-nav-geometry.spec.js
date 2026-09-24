@@ -1,4 +1,6 @@
 import { expect, test } from "@playwright/test";
+import firstline from "../firstline.config.js";
+test.skip(firstline.comingSoon, "Full site is behind the coming-soon redirect.");
 
 const mobileGeometryViewports = [
   { width: 375, height: 900 },

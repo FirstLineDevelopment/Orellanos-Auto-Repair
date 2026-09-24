@@ -6,8 +6,8 @@
 
 ## Business
 
-- Name: Orellano's Auto Repair & More
-- Public-facing brand signal: Orellano Mobile Mechanic
+- Name: Orellano's Auto Repair
+- Public-facing brand signal: Orellano's Auto Repair
 - Industry: Mobile mechanic / auto repair
 - Location signal: Waterbury
 - Known web presence: Facebook page/profile

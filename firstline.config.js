@@ -1,13 +1,20 @@
 export default {
   systemVersion: "2.1",
+  comingSoon: true,
   architecture: "single-page",
   defaultFormMode: "demo",
   pages: [
     {
       path: "/",
       source: "index.html",
-      titlePattern: "Orellano Mobile Mechanic",
+      titlePattern: "Orellano's Auto Repair",
       anchors: ["mobile", "services", "coverage", "request", "contact"]
+    },
+    {
+      path: "/coming-soon.html",
+      source: "coming-soon.html",
+      titlePattern: "Orellano's Auto Repair",
+      anchors: []
     }
   ],
   assets: {

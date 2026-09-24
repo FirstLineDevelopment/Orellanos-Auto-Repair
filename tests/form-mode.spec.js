@@ -1,4 +1,6 @@
 import { expect, test } from "@playwright/test";
+import firstline from "../firstline.config.js";
+test.skip(firstline.comingSoon, "Full site is behind the coming-soon redirect.");
 
 test("demo forms clearly do not submit to a live business", async ({ page }) => {
   await page.goto("/");

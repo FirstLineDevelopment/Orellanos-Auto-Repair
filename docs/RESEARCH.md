@@ -4,18 +4,17 @@
 
 | Source | URL / Reference | Finding | Confidence | Website Use |
 | --- | --- | --- | --- | --- |
-| Facebook page supplied by user | `https://www.facebook.com/profile.php?id=100064694472877` | Open Graph metadata identifies the page as Orellano's Auto Repair & More. | High | Business name, Facebook presence |
-| Facebook page metadata | `https://www.facebook.com/people/Orellanos-Auto-Repair-More/100064694472877/` | Metadata description says "Orellano's Auto Repair & More, Waterbury. 1,033 likes. Entrepreneur." | Medium-high | Waterbury presence and approximate social audience only |
-| User-provided logo from Facebook | `assets/client/orellano-mobile-mechanic-logo.jpg` and `assets/research/orellano-mobile-mechanic-logo-source.png` | Logo reads "Orellano Mobile Mechanic" and shows mechanic, truck, and tools. | High as supplied reference | Brand identity, mobile mechanic positioning, palette |
+| Facebook page supplied by user | `https://www.facebook.com/profile.php?id=100064694472877` | Facebook metadata and user direction establish Orellano's Auto Repair in the Waterbury market. | High | Business name, Facebook presence |
+| User-provided logo | `assets/client/Logo.png` | Current client-provided logo for Orellano's Auto Repair. | High as supplied reference | Brand identity, palette |
 | User-provided business card from Facebook | `assets/client/orellano-business-card.jpg` and `assets/research/orellano-business-card-source.png` | Card lists phone `(203) 706-5687`, services, Facebook name, and "Master Tech Mopar." | High as supplied reference | Phone, service list, brand styling |
 | Public web search | business name and Waterbury/CT variants | No reliable owned website, phone, address, hours, reviews, or service list found during this pass. | Medium | Treat as unknown |
 
 ## Verified
 
-- Business name: Orellano's Auto Repair & More.
+- Business name: Orellano's Auto Repair.
 - Business category: auto repair, based on name and Facebook identity.
 - Public web presence: Facebook page/profile.
-- Public-facing logo text: Orellano Mobile Mechanic.
+- Public-facing logo text: Orellano's Auto Repair.
 - Phone from business card: `(203) 706-5687`.
 - Services from business card: brakes, engine, transmission, A/C, diagnostics, general maintenance.
 
@@ -42,7 +41,7 @@
 
 ## Asset Discovery
 
-The supplied Facebook page exposes an Open Graph image. The user also provided logo and business-card screenshots from Facebook. These are now used as concept assets because they are owner/social-profile materials supplied directly for this project, but final launch should still request original files and written permission. The earlier generated repair-bay image is retained only as a replaced concept asset.
+The supplied Facebook page exposes an Open Graph image. The user also provided a current logo file at `assets/client/Logo.png` and prior business-card screenshots from Facebook. These are used as concept assets because they are owner/social-profile materials supplied directly for this project, but final launch should still request production-ready originals and written permission. The earlier generated repair-bay image is retained only as a replaced concept asset.
 
 ## Owner Questions
 

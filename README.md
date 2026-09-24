@@ -1,4 +1,9 @@
-# Orellano's Auto Repair & More
+# Orellano's Auto Repair
+
+Coming-soon mode is enabled with `comingSoon: true` in `firstline.config.js`.
+Vite serves and builds `/` and `/index.html` as redirects to `/coming-soon.html`.
+To launch the preserved homepage, set `comingSoon` to `false`, rebuild, and deploy.
+Restart the dev server after changing the switch.
 
 FirstLine-System-Version: 2.1
 
