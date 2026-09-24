@@ -4,7 +4,8 @@ FirstLine-System-Version: 2.1
 
 ## Client
 
-- Project folder: Orellanos-Auto-Repair-and-More
+- Repository: `FirstLineDevelopment/Orellanos-Auto-Repair`
+- Local project folder: `Orellanos-Auto-Repair-and-More` (legacy local path)
 - Name: Orellano's Auto Repair
 - Public-facing brand treatment: Orellano's Auto Repair
 - Business type: Mobile mechanic / auto repair
