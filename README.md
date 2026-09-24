@@ -5,6 +5,15 @@ Vite serves and builds `/` and `/index.html` as redirects to `/coming-soon.html`
 To launch the preserved homepage, set `comingSoon` to `false`, rebuild, and deploy.
 Restart the dev server after changing the switch.
 
+## Firebase Hosting
+
+- Account: `firstlinedevnt@gmail.com`
+- Project: `orellanos-auto-repair`
+- Hosting URL: https://orellanos-auto-repair.web.app
+- Deploy: `firebase deploy --only hosting --project orellanos-auto-repair --account firstlinedevnt@gmail.com`
+
+Hosting builds the site before deployment and publishes `dist`.
+
 FirstLine-System-Version: 2.1
 
 FirstLine client project created from the v2.1 starter. It is intentionally small: static HTML/CSS/JS, reusable navigation/anchor/footer/form utilities, visual-direction project memory, and Playwright checks for issues that repeatedly appeared in historical projects.

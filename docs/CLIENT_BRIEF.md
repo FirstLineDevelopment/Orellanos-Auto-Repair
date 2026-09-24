@@ -96,7 +96,7 @@ FirstLine-System-Version: 2.1
 ## Launch
 
 - Domain: unknown
-- Hosting: not selected
+- Hosting: Firebase Hosting, project `orellanos-auto-repair`, account `firstlinedevnt@gmail.com`; GitHub Pages remains available.
 - Analytics: not selected
 - Social preview asset: `assets/client/Logo.png`, replace with final owner-approved image before launch if needed.
 - Footer credit allowed: unknown
